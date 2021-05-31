@@ -1,0 +1,96 @@
+﻿{
+  "Fire" : {
+    "Weaknesses" : [
+      "Water",
+      "Earth",
+      "Wind"
+    ],
+    "Strengths" : [
+      "Void",
+      "Grass",
+      "Candy"
+    ]
+  },
+  "Water" : {
+    "Weaknesses" : [
+      "Grass",
+      "Radioactive"
+    ],
+    "Strengths" : [
+      "Fire",
+      "Earth"
+    ]
+  },
+  "Earth" : {
+    "Weaknesses" : [
+      "Water",
+      "Grass"
+    ],
+    "Strengths" : [
+      "Fire",
+      "Wind",
+      "Radioactive"
+    ]
+  },
+  "Wind" : {
+    "Weaknesses" : [
+      "Earth",
+      "Radioactive"
+    ],
+    "Strengths" : [
+      "Fire"
+    ]
+  },
+  "Grass" : {
+    "Weaknesses" : [
+      "Fire"
+    ],
+    "Strengths" : [
+      "Earth",
+      "Water"
+    ]
+  },
+  "Void" : {
+    "Weaknesses" : [
+      "Psychic",
+      "Fire"
+    ],
+    "Strengths" : [
+      "Cosmic"
+    ]
+  },
+  "Cosmic" : {
+    "Weaknesses" : [
+      "Void"
+    ],
+    "Strengths" : [
+      "Psychic"
+    ]
+  },
+  "Psychic" : {
+    "Weaknesses": [
+      "Candy",
+      "Cosmic"
+    ],
+    "Strengths" : [
+      "Void"
+    ]
+  },
+  "Radioactive" : {
+    "Weaknesses" : [
+      "Earth"
+    ],
+    "Strengths" : [
+      "Water",
+      "Wind"
+    ]
+  },
+  "Candy" : {
+    "Weaknesses" : [
+      "Fire"
+    ],
+    "Strengths" : [
+      "Psychic"
+    ]
+  }
+}

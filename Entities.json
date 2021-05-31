@@ -1,0 +1,37 @@
+﻿{
+  "Entities": [
+    {
+      "Id" :  1,
+      "Name": "Prismantic",
+      "Tribe": "Cuboids",
+      "Elements": [
+        "Fire",
+        "Psychic"
+      ],
+      "IsPassive": true,
+      "Status": "Common",
+      "Description": "A travelling psychic particle belonging to the cubic space dimension; he is known to travel between all lands in peaceful bliss",
+      "CanTrade": true,
+      "Items": [
+        {
+          "ItemID": 1,
+          "Quantity": 1,
+          "WillSell": false,
+          "ChanceToDrop": 0.01
+        },
+        {
+          "ItemID": 2,
+          "Quantity": 1,
+          "WillSell": true,
+          "ChanceToDrop": 0.1
+        }
+      ],
+      "Dialogue": {
+        "Greeting": "Hello traveller!",
+        "Goodbye": "Goodbye traveller!",
+        "RequestTrade": "Here's what I've got: ",
+        "ChallengeToBattle": "I'm but a simple Cuboid. Why me?"
+      }
+    }
+  ]
+}

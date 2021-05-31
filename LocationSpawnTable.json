@@ -1,0 +1,57 @@
+﻿{
+  "Cyan Ville": [
+    {
+      "ID": 1,
+      "ChanceToEncounter": 10,
+      "MinLevel": 1,
+      "MaxLevel": 5
+    },
+    {
+      "ID": 2,
+      "ChanceToEncounter": 10,
+      "MinLevel": 1,
+      "MaxLevel": 4
+    }
+  ],
+
+  "Azure Town": [
+    {
+      "ID": 1,
+      "ChanceToEncounter": 10,
+      "MinLevel": 3,
+      "MaxLevel": 8
+    }
+  ],
+  "Creation Valley": [
+    {
+      "ID": 1,
+      "ChanceToEncounter": 1,
+      "MinLevel": 40,
+      "MaxLevel": 50
+    }
+  ],
+  "Cosmantic City": [
+    {
+      "ID": 1,
+      "ChanceToEncounter": 2,
+      "MinLevel": 32,
+      "MaxLevel": 45
+    }
+  ],
+  "Wastelands": [
+    {
+      "ID": 1,
+      "ChanceToEncounter": 10,
+      "MinLevel": 20,
+      "MaxLevel": 27
+    }
+  ],
+  "Cubic Space Realm": [
+    {
+      "ID": 1,
+      "ChanceToEncounter": 20,
+      "MinLevel": 32,
+      "MaxLevel": 45
+    }
+  ]
+}
